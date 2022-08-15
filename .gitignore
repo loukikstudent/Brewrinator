@@ -1,0 +1,11 @@
+/databases/barcode.sqlite
+/.idea/.gitignore
+/.idea/Brewerinator.iml
+/.idea/dataSources.xml
+/.idea/sonarlint/issuestore/index.pb
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/sqldialects.xml
+/.idea/vcs.xml
